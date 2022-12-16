@@ -1,0 +1,15 @@
+E:\Laptop\Documents\Visual Studio 2010\Projects\8Queen\8Queen\bin\Debug\8Queen.exe
+E:\Laptop\Documents\Visual Studio 2010\Projects\8Queen\8Queen\bin\Debug\8Queen.pdb
+E:\Laptop\Documents\Visual Studio 2010\Projects\8Queen\8Queen\obj\x86\Debug\_8Queen.Properties.Resources.resources
+E:\Laptop\Documents\Visual Studio 2010\Projects\8Queen\8Queen\obj\x86\Debug\8Queen.csproj.GenerateResource.Cache
+E:\Laptop\Documents\Visual Studio 2010\Projects\8Queen\8Queen\obj\x86\Debug\8Queen.exe
+E:\Laptop\Documents\Visual Studio 2010\Projects\8Queen\8Queen\obj\x86\Debug\8Queen.pdb
+C:\Users\Home\Desktop\University Doc\AI Codes\8Queen\8Queen\obj\x86\Debug\8Queen.exe
+C:\Users\Home\Desktop\University Doc\AI Codes\8Queen\8Queen\obj\x86\Debug\8Queen.pdb
+F:\University\University Doc\AI Codes\8Queen\8Queen\obj\x86\Debug\8Queen.exe
+F:\University\University Doc\AI Codes\8Queen\8Queen\obj\x86\Debug\8Queen.pdb
+F:\University\University Doc\AI Codes\8Queen\8Queen\bin\Debug\8Queen.exe
+F:\University\University Doc\AI Codes\8Queen\8Queen\bin\Debug\8Queen.pdb
+F:\University\University Doc\AI Codes\8Queen\8Queen\obj\x86\Debug\8Queen.csprojResolveAssemblyReference.cache
+F:\University\University Doc\AI Codes\8Queen\8Queen\obj\x86\Debug\_8Queen.Properties.Resources.resources
+F:\University\University Doc\AI Codes\8Queen\8Queen\obj\x86\Debug\8Queen.csproj.GenerateResource.Cache
