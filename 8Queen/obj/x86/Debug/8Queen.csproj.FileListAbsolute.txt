@@ -1,0 +1,9 @@
+F:\Users\Artin-PC\Desktop\New folder (3)\8vazir\bin\Debug\8Queen.exe
+F:\Users\Artin-PC\Desktop\New folder (3)\8vazir\bin\Debug\8Queen.pdb
+F:\Users\Artin-PC\Desktop\New folder (3)\8vazir\obj\x86\Debug\8Queen.csproj.AssemblyReference.cache
+F:\Users\Artin-PC\Desktop\New folder (3)\8vazir\obj\x86\Debug\_8Queen.Form1.resources
+F:\Users\Artin-PC\Desktop\New folder (3)\8vazir\obj\x86\Debug\_8Queen.Properties.Resources.resources
+F:\Users\Artin-PC\Desktop\New folder (3)\8vazir\obj\x86\Debug\8Queen.csproj.GenerateResource.cache
+F:\Users\Artin-PC\Desktop\New folder (3)\8vazir\obj\x86\Debug\8Queen.csproj.CoreCompileInputs.cache
+F:\Users\Artin-PC\Desktop\New folder (3)\8vazir\obj\x86\Debug\8Queen.exe
+F:\Users\Artin-PC\Desktop\New folder (3)\8vazir\obj\x86\Debug\8Queen.pdb

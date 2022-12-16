@@ -1,0 +1,27 @@
+C:\Users\mostafa\Desktop\Project 1\8vazir\bin\Debug\8vazir.exe
+C:\Users\mostafa\Desktop\Project 1\8vazir\bin\Debug\8vazir.pdb
+C:\Users\mostafa\Desktop\Project 1\8vazir\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mostafa\Desktop\Project 1\8vazir\obj\x86\Debug\_8vazir.Form1.resources
+C:\Users\mostafa\Desktop\Project 1\8vazir\obj\x86\Debug\_8vazir.Properties.Resources.resources
+C:\Users\mostafa\Desktop\Project 1\8vazir\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\mostafa\Desktop\Project 1\8vazir\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\mostafa\Desktop\Project 1\8vazir\obj\x86\Debug\8vazir.exe
+C:\Users\mostafa\Desktop\Project 1\8vazir\obj\x86\Debug\8vazir.pdb
+E:\F\EDU\Term 3\هوش مصنوعي\تمرينات\Project 1\8vazir\obj\x86\Debug\8vazir.exe
+E:\F\EDU\Term 3\هوش مصنوعي\تمرينات\Project 1\8vazir\obj\x86\Debug\8vazir.pdb
+E:\F\EDU\Term 3\هوش مصنوعي\تمرينات\Project 1\8vazir\bin\Debug\8vazir.exe
+E:\F\EDU\Term 3\هوش مصنوعي\تمرينات\Project 1\8vazir\bin\Debug\8vazir.pdb
+E:\F\EDU\Term 3\هوش مصنوعي\تمرينات\Project 1\8vazir\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\F\EDU\Term 3\هوش مصنوعي\تمرينات\Project 1\8vazir\obj\x86\Debug\_8vazir.Form1.resources
+E:\F\EDU\Term 3\هوش مصنوعي\تمرينات\Project 1\8vazir\obj\x86\Debug\_8vazir.Properties.Resources.resources
+E:\F\EDU\Term 3\هوش مصنوعي\تمرينات\Project 1\8vazir\obj\x86\Debug\ResGen.read.1.tlog
+E:\F\EDU\Term 3\هوش مصنوعي\تمرينات\Project 1\8vazir\obj\x86\Debug\ResGen.write.1.tlog
+\\192.168.1.15\Volume_3\South\91-92-2\AI\مصطفي علي اکبري\8vazir\bin\Debug\8vazir.exe
+\\192.168.1.15\Volume_3\South\91-92-2\AI\مصطفي علي اکبري\8vazir\bin\Debug\8vazir.pdb
+\\192.168.1.15\Volume_3\South\91-92-2\AI\مصطفي علي اکبري\8vazir\obj\x86\Debug\8vazir.csproj.AssemblyReference.cache
+\\192.168.1.15\Volume_3\South\91-92-2\AI\مصطفي علي اکبري\8vazir\obj\x86\Debug\_8vazir.Form1.resources
+\\192.168.1.15\Volume_3\South\91-92-2\AI\مصطفي علي اکبري\8vazir\obj\x86\Debug\_8vazir.Properties.Resources.resources
+\\192.168.1.15\Volume_3\South\91-92-2\AI\مصطفي علي اکبري\8vazir\obj\x86\Debug\8vazir.csproj.GenerateResource.cache
+\\192.168.1.15\Volume_3\South\91-92-2\AI\مصطفي علي اکبري\8vazir\obj\x86\Debug\8vazir.csproj.CoreCompileInputs.cache
+\\192.168.1.15\Volume_3\South\91-92-2\AI\مصطفي علي اکبري\8vazir\obj\x86\Debug\8vazir.exe
+\\192.168.1.15\Volume_3\South\91-92-2\AI\مصطفي علي اکبري\8vazir\obj\x86\Debug\8vazir.pdb
